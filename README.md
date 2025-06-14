@@ -1,16 +1,113 @@
-## Hi there 👋
+# Hi there, I'm Rasheed Afolabi 👋
 
-<!--
-**Rasheed-Afolabi/Rasheed-Afolabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Cloud Architect & Security Specialist | Linux Systems Administrator
+Designing secure, scalable cloud infrastructures with a focus on AWS environments.
+Passionate about building resilient systems that balance performance, security, and cost optimization.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+Currently pursuing my **Master's in Information Systems/Cybersecurity** at Baylor University, I focus on **building secure, scalable cloud environments and automating security operations**. I've recently worked on:
+
+* **Enterprise Cloud Security Framework** - Multi-account AWS security architecture with automated compliance monitoring
+* **Automated Threat Response System** - SOAR playbooks for incident containment and remediation
+* **Zero-Trust Network Implementation** - Micro-segmentation and identity verification across hybrid environments
+* **Security Compliance Dashboard** - Real-time compliance monitoring across multi-cloud infrastructure
+
+## 🛠️ **Technologies & Tools**
+
+<div align="center">
+
+<!-- Cloud Platforms -->
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+
+<!-- Infrastructure as Code -->
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+<!-- Security Tools -->
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+
+<!-- Monitoring & SIEM -->
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+
+<!-- Operating Systems -->
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+<!-- DevSecOps -->
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+</div>
+
+
+## 🏆 Certifications
+
+* 🔒 **CompTIA Security+** - Foundational Cybersecurity
+* 🌐 **CompTIA Network+** - Networking Fundamentals  
+* ☁️ **AWS Cloud Practitioner** 
+* 🏗️ **AWS Solutions Architect Associate** - (In Progress)
+* 🛡️ **AWS Security Specialty** - (Target: 2026)
+* 🔐 **CISSP** - (Target: 2026-2027)
+
+## 🎯 Current Learning Focus
+
+```
+🔍 Advanced threat detection and hunting techniques
+☁️ AWS security architecture and compliance frameworks  
+🤖 Security automation and orchestration (SOAR)
+📚 Preparing for AWS Solutions Architect Associate
+🛡️ Incident response and digital forensics
+```
+
+## 🌟 Fun Facts
+- 🔒 I can spot a security vulnerability from a mile away
+- ☁️ I dream in AWS architecture diagrams
+- 🐧 I speak fluent Linux (and it speaks back)
+- 🚨 I turn coffee into security solutions
+- 📚 Always learning something new in cybersecurity
+
+## 📱 **Connect with Me**
+
+<div align="center">
+  
+<a href="https://linkedin.com/in/rasheedafolabi1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://twitter.com/thisisrasheed_"> 
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+<a href="mailto:rasheed_afolabi1@yahoo.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://rasheedafolabi.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+
+
+</div>
+
+---
+
+<div align="center">
+
+💡 *Always learning, always securing, always improving*
+<a href="https://github.com/rasheed-afolabi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+
+</div>
