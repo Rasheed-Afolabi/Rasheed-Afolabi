@@ -1,8 +1,8 @@
 # Hi there, I'm Rasheed Afolabi 👋
 
 ## About Me
-Cloud Architect & Security Specialist | Linux Systems Administrator
-Designing secure, scalable cloud infrastructures with a focus on AWS environments.
+Cloud Architect & Security Specialist | Systems Administrator
+Designing secure, scalable cloud infrastructures 
 Passionate about building resilient systems that balance performance, security, and cost optimization.
 
 
@@ -21,17 +21,12 @@ Currently pursuing my **Master's in Information Systems/Cybersecurity** at Baylo
 <!-- Cloud Platforms -->
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
 
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-
-<!-- Infrastructure as Code -->
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 <!-- Security Tools -->
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -42,7 +37,6 @@ Currently pursuing my **Master's in Information Systems/Cybersecurity** at Baylo
 
 <!-- Operating Systems -->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 <!-- DevSecOps -->
 <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -58,7 +52,7 @@ Currently pursuing my **Master's in Information Systems/Cybersecurity** at Baylo
 * ☁️ **AWS Cloud Practitioner** 
 * 🏗️ **AWS Solutions Architect Associate** - (In Progress)
 * 🛡️ **AWS Security Specialty** - (Target: 2026)
-* 🔐 **CISSP** - (Target: 2026-2027)
+
 
 ## 🎯 Current Learning Focus
 
@@ -71,11 +65,7 @@ Currently pursuing my **Master's in Information Systems/Cybersecurity** at Baylo
 ```
 
 ## 🌟 Fun Facts
-- 🔒 I can spot a security vulnerability from a mile away
-- ☁️ I dream in AWS architecture diagrams
-- 🐧 I speak fluent Linux (and it speaks back)
-- 🚨 I turn coffee into security solutions
-- 📚 Always learning something new in cybersecurity
+- 📚 Always learning something new 
 
 ## 📱 **Connect with Me**
 
