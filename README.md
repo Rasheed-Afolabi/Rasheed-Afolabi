@@ -45,15 +45,6 @@ Currently pursuing my **Master's in Information Systems/Cybersecurity** at Baylo
 </div>
 
 
-## 🏆 Certifications
-
-* 🔒 **CompTIA Security+** - Foundational Cybersecurity
-* 🌐 **CompTIA Network+** - Networking Fundamentals  
-* ☁️ **AWS Cloud Practitioner** 
-* 🏗️ **AWS Solutions Architect Associate** - (In Progress)
-* 🛡️ **AWS Security Specialty** - (Target: 2026)
-
-
 ## 🎯 Current Learning Focus
 
 ```
