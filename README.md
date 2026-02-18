@@ -14,9 +14,9 @@ Cybersecurity & IT professional | M.S. Information Systems (Cybersecurity) — B
 
 🔐 **Identity & Access** 
 
-📋 **GRC & Audit** — 
+📋 **GRC & Audit** 
 
-🛡️ **Threat Detection** — 
+🛡️ **Threat Detection** 
 
 ⚙️ **Automation**
 
