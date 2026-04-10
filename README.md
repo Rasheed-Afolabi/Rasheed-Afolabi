@@ -4,22 +4,6 @@
 
 Cybersecurity & IT professional | M.S. Information Systems (Cybersecurity) — Baylor University, 2025
 
----
-
-### 🧰 What I Bring to Your Team
-
-🔍 **Risk & Compliance** — Risk assessments, gap analysis, and control mapping across NIST CSF, NIST 800-53, ISO 27001, SOC 2, HIPAA, CCPA, PCI-DSS, and CIS Controls
-
-🖥️ **Endpoint Management** 
-
-🔐 **Identity & Access** 
-
-📋 **GRC & Audit** 
-
-🛡️ **Threat Detection** 
-
-⚙️ **Automation**
-
 
 ---
 
