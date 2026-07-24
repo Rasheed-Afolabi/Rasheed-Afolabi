@@ -2,7 +2,7 @@
 
 ### I solve business problems through technology.
 
-Cybersecurity & IT professional | M.S. Information Systems (Cybersecurity) — Baylor University, 2025
+Cybersecurity & IT professional | Baylor University, 2025
 
 
 ---
